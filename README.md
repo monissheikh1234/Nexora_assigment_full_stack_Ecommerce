@@ -21,11 +21,6 @@ It includes features such as **user authentication, form validation, and cart ma
 4. [Installation](#installation)
 5. [Created By](#created-by)
 
----
-
-## 🚀 Demo
-
-(You can add your deployed link or Loom video link here later.)
 
 ---
 
@@ -35,7 +30,7 @@ It includes features such as **user authentication, form validation, and cart ma
 - ✅ Form validation
 - 🛍️ Add products to the shopping cart
 - ♻️ Manage cart (Add, Remove, Update items)
-- 📄 Product detail page
+
 
 ---
 
